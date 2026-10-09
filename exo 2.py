@@ -12,4 +12,11 @@ y=4+x
 print ( y )
 x+=4
 print ( x )
+y+=x
+print ( y )
+y%=x+1
+print ( y )
+y=5*(x+y)
+print ( y )
+
 
